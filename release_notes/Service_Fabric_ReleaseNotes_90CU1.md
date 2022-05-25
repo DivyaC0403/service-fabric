@@ -18,7 +18,7 @@ The following packages and versions are part of this release:
 Microsoft Azure Service Fabric 9.0 Cumulative Update 1 Release Notes
 
 * [Current Breaking Changes](#current-breaking-changes)
-* [Upcoming Breaking Changes] (#upcoming-breaking-changes)
+* [Upcoming Breaking Changes] (#upcoming breaking changes)
 * [Service Fabric Common Bug Fixes](#service-fabric-common-bug-fixes)
 * [Repositories and Download Links](#repositories-and-download-links)
 
